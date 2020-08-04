@@ -16,12 +16,7 @@
 Open deployed link on browser
 
 ## Usage 
-User will be able to sort a table of employees by name or click on the name button to see an ascending or descending   list of employees sorted alphabetically. 
-
-[Repository](https://github.com/danieldrojas/budgetTracker)
-
-[Deployed website](https://gt-pwa-budget-tracker.herokuapp.com/)
-![main](./public/assets/images/dashboard.png)
+User will be able to sort a table of employees by name or click on the name button to see an ascending or descending   list of employees sorted alphabetically.  
 
 
 ## Credits
